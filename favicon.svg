@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="30" fill="#110c07" stroke="#c9a96e" stroke-width="2"/>
+  <circle cx="32" cy="32" r="27" fill="#110c07" stroke="#c9a96e" stroke-width="0.5" stroke-dasharray="3 3" opacity="0.5"/>
+  <path d="M8,38 Q32,34 56,38 L56,56 Q32,56 8,56 Z" fill="#2a1f0e" opacity="0.8"/>
+  <ellipse cx="16" cy="39" rx="7" ry="4" fill="#4a3018"/>
+  <ellipse cx="24" cy="41" rx="5" ry="3" fill="#4a3018"/>
+  <ellipse cx="44" cy="39" rx="8" ry="4.5" fill="#4a3018"/>
+  <ellipse cx="52" cy="41" rx="5" ry="3" fill="#4a3018"/>
+  <circle cx="32" cy="38" r="7" fill="#e8a020"/>
+  <rect x="8" y="38" width="48" height="14" fill="#110c07"/>
+  <text x="32" y="34" text-anchor="middle" font-family="serif" font-size="22" font-weight="700" fill="#f5ead8">戈</text>
+  <text x="32" y="50" text-anchor="middle" font-family="Georgia,serif" font-size="11" fill="#c9a96e" letter-spacing="2">21</text>
+</svg>
